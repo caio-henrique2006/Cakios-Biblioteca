@@ -1,0 +1,30 @@
+/*Estilo simples do cabeçario*/
+header {
+	margin: -10px -10px -10px -10px;
+	background-color: rgb(71, 209, 71);
+	overflow: hidden;
+}
+.navigation a {
+	float: left;
+	text-align: center;
+	display: block;
+	padding: 20px 20px;
+	font-size: 30px;
+	color: black;
+	text-decoration: none;
+}
+.navigation a:hover {
+	background-color: rgb(41, 163, 41);
+	color: black;
+}
+.navigation a.active{
+	background-color:  rgb(41, 163, 41);
+	color: black;
+}
+.navigation input{
+	float: right;
+	padding: 10px;
+	margin-top: 20px;
+	margin-right: 10px;
+	border: none;
+}

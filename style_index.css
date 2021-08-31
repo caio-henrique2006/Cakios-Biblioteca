@@ -1,0 +1,34 @@
+.logo{
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.header{
+	overflow: hidden;
+	margin: -10px -10px -10px -10px;
+	background-color: rgb(34, 229, 223);
+	border: solid;
+	border-color: rgb(34, 205, 200);
+}
+.navigation a{
+	color: black;
+	float: left;
+	font-size: 30px;
+	text-align: center;
+	display: block;
+	padding: 30px 30px;
+	text-decoration: none;
+}
+.navigation a:hover{
+	color: black;
+	background-color: rgb(34, 205, 200);
+}
+
+.navigation input{
+	margin-top: 25px;
+	margin-right: 25px;
+	padding: 10px;
+	display: block;
+	float: right;
+	border: none;
+}
