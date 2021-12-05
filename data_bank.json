@@ -7,7 +7,8 @@
       "Literatura do naturalismo",
       "Ficção"
     ],
-    "image": "img/o_cortiço.jpg"
+    "image": "img/o_cortiço.jpg",
+    "link": "paginas/o_cortiço.html"
   },
   {
     "title": "Persuasão",
@@ -15,7 +16,8 @@
     "genre": [
       "Romance"
     ],
-    "image": "img/persuasao.jpg"
+    "image": "img/persuasao.jpg",
+    "link": "paginas/persuasao.html"
   },
   {
     "title": "Odisseia",
@@ -24,7 +26,8 @@
       "Poesia épica",
       "Épico"
     ],
-    "image": "img/odisseia.jpg"
+    "image": "img/odisseia.jpg",
+    "link": "paginas/odisseia.html"
   },
   {
     "title": "Em chamas",
@@ -35,7 +38,8 @@
       "Ficção Científica",
       "Suspense"
     ],
-    "image": "img/em_chamas.jpg"
+    "image": "img/em_chamas.jpg",
+    "link": "paginas/em_chamas.html"
   },
   {
     "title": "A menina que roubava livros",
@@ -46,7 +50,8 @@
       "Ficção histórica",
       "Romance de formação"
     ],
-    "image": "img/a_menina_que_roubava_livros.jpg"
+    "image": "img/a_menina_que_roubava_livros.jpg",
+    "link": "paginas/a_menina_que_roubava_livros.html"
   },
   {
     "title": "Eu sou Malala",
@@ -54,7 +59,8 @@
     "genre":[
       "Biografia"
     ],
-    "image": "img/eu_sou_malala.jpg"
+    "image": "img/eu_sou_malala.jpg",
+    "link": "paginas/eu_sou_malala.html"
   },
   {
     "title": "O mundo de sofia",
@@ -63,7 +69,8 @@
       "Romance",
       "Filosofia"
     ],
-    "image": "img/o_mundo_de_sofia.jpg"
+    "image": "img/o_mundo_de_sofia.jpg",
+    "link": "paginas/o_mundo_de_sofia.html"
   },
   {
     "title": "Emma",
@@ -71,6 +78,7 @@
     "genre":[
       "Romance"
     ],
-    "image": "img/emma.jpg"
+    "image": "img/emma.jpg",
+    "link": "paginas/emma.html"
   }
 ]
