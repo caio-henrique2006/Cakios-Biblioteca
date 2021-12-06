@@ -38,6 +38,10 @@ header {
 	margin-right: 10px;
 	border: none;
 }
+
+.navigation .input_search_submit{
+	float: right;
+}
 /*Estilo do conteúdo principal e único da página*/
 .main{
 	margin-left: 12%;
